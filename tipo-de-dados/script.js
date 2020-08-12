@@ -1,6 +1,6 @@
 
 //TIPOS DE DADOS
-var nome = 'André'; // String
+var nome = 'Sara'; // String
 var idade = 28; // Number
 var possuiFaculdade = true; // Boolean
 var time; // Undefined
@@ -10,14 +10,14 @@ var novoObjeto = {} // Object
 // Todos são primitivos exceto os objetos. Primitivos são dados imutáveis.
 
 //VERIFICAR TIPO DE DADO
-var nome = 'André';
+var nome = 'Sara';
 console.log(typeof nome);
 // retorna string
 // typeof null retorna object
 
 //STRING
-var nome = 'André';
-var sobrenome = 'Rafael';
+var nome = 'Sara';
+var sobrenome = 'Rodrigues';
 var nomeCompleto = nome + ' ' + sobrenome;
 
 var gols = 1000;
